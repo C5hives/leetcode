@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/
 
+import math
+
 class Solution(object):
     def kthCharacter(self, k):
         """
