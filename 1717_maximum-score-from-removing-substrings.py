@@ -35,7 +35,6 @@ def maximumGain(s, x, y):
         del second_stack[-2:]
         total_points += substrings[string_to_search_second]
         
-    
     return total_points
 
 s = "cdbcbbaaabab"
