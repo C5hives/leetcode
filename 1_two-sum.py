@@ -22,4 +22,3 @@ class Solution(object):
                 if i == index:
                     continue
                 return [i, index]
-        

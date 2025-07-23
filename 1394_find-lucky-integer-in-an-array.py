@@ -22,4 +22,3 @@ class Solution(object):
             largest_lucky_number = number
         
         return largest_lucky_number
-        
